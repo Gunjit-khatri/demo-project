@@ -1,0 +1,332 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.header{
+	font-family: 'Open Sans', sans-serif;
+	height:80px;
+	width:100%;
+	padding:20px;
+}
+.toggle{
+	float:left;
+}
+.logo{
+	float:left;
+	margin-left:66px;
+}
+.arrow{
+	float:right;
+	margin-left:56px;
+}
+.banner{
+	height:547px;
+	background:url(../img/Untitled-1.jpg) no-repeat;
+	background-size:100%;
+}
+.banner h1{
+	text-align:center;
+	padding-top:65px;
+	font-size:36px;
+	margin:0px;
+}	
+.banner h4{
+	text-align:center;
+}
+.button3{
+    background-color:none; 
+    color:#000; 
+    border: 1px solid #000;
+	border-radius:10px;
+}
+.phone-no{
+	background:#f5d31;
+	float:right;
+	
+}
+.first{
+	padding-top:55px;
+	text-align:center;
+}
+.line1{
+	position:absolute;
+	left:220px;
+	top:125px;
+}
+.second{
+	padding-top:55px;
+	text-align:center;
+}
+.line2{
+	position:absolute;
+	left:220px;
+	top:125px;
+}
+.third{
+	padding-top:55px;
+	text-align:center;
+}
+.line3{
+	position:absolute;
+	left:220px;
+	top:125px;
+}
+.forth{
+	padding-top:55px;
+	text-align:center;
+}
+.first h3{
+	padding:24px 24px 92px;
+}
+.second h3{
+	padding:24px 24px;
+}
+.third h3{
+	padding:24px 35px;
+}
+.forth h3{
+	padding:24px 35px;
+}
+.advantage{
+	background-color:#f3f0e7;
+	text-align:center;
+}
+.advantage h1{
+	margin-top:50px;
+	margin-bottom:70px;
+	text-align:center;
+}
+.advantage img{
+	margin-top:40px;
+}
+.one h3{
+	text-align:center;
+	padding-top:24px;
+	margin-right:40px;
+}
+.one p{
+	font-weight:400;
+	text-align:center;
+	margin-top:33px;
+}
+.two h3{
+	text-align:center;
+	padding-top:24px;
+	margin-right:40px;
+}
+.two p{
+	font-weight:400;
+	text-align:center;
+	margin-top:33px;
+}
+.three h3{
+	text-align:center;
+	padding-top:24px;
+	margin-right:40px;
+}
+.three p{
+	text-align:center;
+	font-weight:400;
+	margin-top:33px;
+}
+.make button{
+	text-align:center;
+	border:1px solid transparent;
+	padding:23px 33px;
+}
+.photobook{
+	background:#e11a27;
+	margin-top:93px;
+	margin-bottom:77px;
+}
+.solution h1{
+	text-align:center;
+	padding-bottom:40px;
+	padding-top:40px;
+}
+.light{
+	padding-bottom:112px;
+	text-align:center;
+}
+.classic{
+	text-align:center;
+}
+.premium{
+	text-align:center;
+}
+.premium img{
+	padding-top:20px;
+}
+
+.banner1{
+	height:767px;
+	background:url(../img/John%20doe%20background%20image.jpg) no-repeat;
+	background-size:100%;
+}
+.banner1 h1{
+	padding-top:37px;
+}
+.banner1 img{
+	padding-top:58px;
+	position:absolute;
+}
+.banner1 h2{
+	padding-left:200px;
+	padding-top:90px;
+}
+.banner1 h5{
+	padding-left:200px;
+	padding-top:0px;
+}
+.banner1 p{
+	font-weight:600;
+	font-size:18px;
+	padding-top:80px;
+}
+.button5{
+    background-color:#f7f0e6; 
+    color:#000; 
+    border: 1px solid #000;
+	border-radius:10px;
+	padding:15px 60px;
+	margin-top:130px;
+	margin-left:79px;
+	padding:23px 35px;
+}
+.term{
+	height:65px;
+	width:311px;
+	background-color:#ffd200;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	margin-top:92px;
+}
+.term h2{
+	text-align:center;
+	padding:15px;
+}
+.lorem{
+	height:242px;
+	width:312px;
+	background-color:#f7f0e6;
+	margin-top:10px;
+}
+.lorem p{
+	text-align:center;
+	padding-top:37px;
+	font-weight:600;
+	font-size:18px;
+}
+.content{
+	text-align:center;
+}
+.payments{
+	height:65px;
+	width:311px;
+	background-color:#ffd200;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	margin-top:92px;
+}
+.payments h2{
+	text-align:center;
+	padding:15px;
+}
+.ipsum{
+	height:242px;
+	width:312px;
+	background-color:#f7f0e6;
+	margin-top:10px;
+}
+.ipsum h4{
+	text-align:center;
+	padding-top:37px;
+	font-weight:600;
+	font-size:18px;
+}
+.ipsum ul li{
+	margin-left:40px;
+}
+.shipping{
+	height:65px;
+	width:311px;
+	background-color:#ffd200;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	margin-top:92px;
+}
+.shipping h2{
+	text-align:center;
+	padding:15px;
+}
+.dolor{
+	height:242px;
+	width:312px;
+	background-color:#f7f0e6;
+	text-align:center;
+	margin-top:10px;
+}
+.dolor p{
+	padding-top:37px;
+	font-weight:600;
+	font-size:18px;
+}
+.phonebook{
+	margin-top:75px;
+	margin-bottom:119px;
+	background:#e11a27;
+}
+.footer{
+	width:100%;
+	height:337px;
+	background-color:#ffd200;
+}
+.about{
+	margin-top:83px;
+}
+.carreers{
+	margin-top:83px;
+}
+.help{
+	margin-top:83px;
+}
+.footer p{
+	text-align:center;
+	font-weight:600;
+	margin-top:110px;
+	background-color:#ffd200;
+}
+.fa-instagram{
+	margin-left:10px;
+}
+.fa-bold{
+	margin-left:10px;
+}
+@media only screen and (max-width : 768px) {
+.premium img{
+	padding-top:150px;
+}
+}
+@media only screen and (max-width : 768px) {
+.content{
+	padding-left:200px;
+}
+}
+@media only screen and (max-width : 768px} {
+.banner{
+	height:700px;
+}
+}
+@media only screen and (max-width : 768px} {
+.carreers{
+	padding-right:50px;
+}
+}
+@media only screen and (max-width : 320px} {
+.footer{
+	display:none;
+}
+
+
+
+
+	
+
